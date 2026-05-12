@@ -1,4 +1,4 @@
-# ☕ Coffee Shop Sales Analysis
+# ☕ Coffee Shop Data cleaning & Sales Analysis
 
 A retail sales analytics project built to analyze coffee shop performance
 across multiple locations and derive actionable business insights.
